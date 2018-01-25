@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<head>
+<title> Human Rights </title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body>
+<section id="header">
+<header>
+<span class=""><img src="" alt="" /></span>
+<h1> Webtech </h1>
+<nav id="nav">
+
+					<ul>
+						<li><a href="#one" class="active">Home</a></li>
+						<li><a href="#two">Advocacy</a></li>
+						<li><a href="#three">About Us</a></li>
+					</ul>
+</header>
+</section>
+<section id="one">
+								<div class="container">
+									<header class="major">
+										<h2>BRGY. MIRADOR </h2>
+										<p> <br /> </p>
+									
+									</header>
+									<p>  </p>
+								</div>
+							</section>
+							
+							
+<section id="two">
+								<div class="container">
+									<h3>Advocacy</h3>
+									<p> About the advocacy</p
+									
+								</div>
+							</section>
+							
+<section id="three">
+									<div class="container">
+									<h3>Contact US</h3>
+									<p>Contact Info </p>
+						</div>
+
+</body>
+
+</html>
