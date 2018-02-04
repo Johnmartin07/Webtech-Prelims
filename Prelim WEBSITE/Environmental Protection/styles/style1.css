@@ -1,0 +1,135 @@
+body {
+    background-color: gray;
+}
+
+
+
+.home{
+	padding:20px;
+	color: black;
+    text-align: left;
+	background-color: gray;
+	padding: 50px;
+}
+
+.home{
+	padding:20px;
+	color: black;
+    text-align: left;
+	padding: 60px;
+}
+
+
+.topnav {
+	width:700px;
+	margin: 0 auto;
+	list-style-type:none;
+}
+
+.topnav ul{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	position: static;
+	
+}
+
+.topnav ul li{
+	float: left;
+	color: lightblue;
+	text-align: center;
+	width: 200px;
+	height: 40px;	
+	text-decoration: none;
+	font-size: 17px;
+	background-color: lightblue;
+	opacity: .8;
+	line-height: 40px;
+	
+	
+	
+}
+
+.topnav li a{
+	text-decoration: none;
+	color: white;
+	border-radius: 5px 2px 5px;
+	display:block;
+	line-height:40px;
+	height:40px;
+	transition: 2s background-color ease 0s;
+	
+}
+
+.topnav ul li a:hover {
+	background-color: lightgray;
+	color: white;
+	border-bottom:1px solid black;
+	
+	
+
+}
+
+
+.content {
+	padding: 30px;
+	font-size: 20px;
+	text-align: left;
+	background: lightblue;	
+}
+
+
+
+.content2 {
+	padding: 30px;
+	font-size: 20px;
+	text-align: left;
+	background: gray;	
+}
+
+.content3 {
+	padding: 30px;
+	font-size: 20px;
+	text-align: left;
+	background: lightblue;	
+}
+
+.content4 {
+	padding: 30px;
+	font-size: 20px;
+	text-align: left;
+	background: gray;	
+}
+
+.table th,td {
+	border: 1px solid black;
+	background: lightblue;
+}
+
+
+
+
+.office {
+	padding: 30px;
+	font-size: 20px;
+	text-align: center;
+	background: gray;	
+	
+}
+
+.table {
+	text-align: center;
+}
+
+
+
+.contact{
+	padding: 40px;
+	font-size: 30px;
+	text-align: left;
+	background: gray;
+	margin-top: 15px;
+	
+	
+}
+
