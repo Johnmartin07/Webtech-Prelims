@@ -29,6 +29,7 @@ body {
 	margin: 0;
 	list-style-type:none;
 	position: fixed;
+	left: 430px;
 }
 
 .topnav ul{
@@ -48,7 +49,6 @@ body {
 	text-decoration: none;
 	font-size: 17px;
 	background-color: lightblue;
-	opacity: .8;
 	line-height: 40px;
 	
 	
@@ -93,6 +93,8 @@ body {
 	font-size: 20px;
 	text-align: left;
 	background: gray;	
+	width: 950px;
+
 }
 
 .content3 {
@@ -100,13 +102,15 @@ body {
 	font-size: 20px;
 	text-align: left;
 	background: lightblue;	
+	width: 950px;
 }
 
 .content4 {
 	padding: 30px;
 	font-size: 20px;
 	text-align: left;
-	background: gray;	
+	background: gray;
+	width: 950px;	
 }
 
 .table th,td {
@@ -121,7 +125,8 @@ body {
 	padding: 30px;
 	font-size: 20px;
 	text-align: center;
-	background: gray;	
+	background: gray;
+	width: 950px;	
 	
 }
 
@@ -137,7 +142,28 @@ body {
 	text-align: left;
 	background: gray;
 	margin-top: 15px;
+	color: white;
 	
 	
 }
+h3{
+	color: white;
+	}
+	
+	
+ul{
+	color: white;
+	}
 
+h1{
+	color: white;
+	}
+	
+h2{
+	color: white;
+	}
+	
+h4{
+	color: white;
+	}
+	
